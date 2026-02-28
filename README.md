@@ -1,5 +1,7 @@
 # TP 2 - Jeu Narratif à Embranchements (YAML + Serde)
 
+Propriétaire Evan CRETON
+
 ### Sujet
 
 Dans ce TP, vous allez implémenter un moteur de jeu narratif à embranchements. Le scénario du jeu sera défini dans un fichier YAML, et votre moteur devra charger ce scénario, le valider, et permettre au joueur d'interagir avec lui via une interface en ligne de commande.
